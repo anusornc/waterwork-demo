@@ -1,9 +1,0 @@
-https://github.com/anusornc/waterwork-demo
-
-https://gitextensions.github.io/
-
-1.Create file in local repository
-2.push origin (github)
-3.pull request 
-4.merge sourcecode
-3.fetch upstream to local repository
